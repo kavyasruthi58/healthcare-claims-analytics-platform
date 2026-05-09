@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Mac
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Database
+*.db
+
+# Environment
+.env
