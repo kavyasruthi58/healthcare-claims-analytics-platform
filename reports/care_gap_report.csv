@@ -1,0 +1,325 @@
+member_id,first_name,last_name,gender,date_of_birth,plan_type,care_gap,priority_score
+M00001,Matthew,Williams,M,1940-11-21,Medicare Advantage,Overdue Wellness Visit,75
+M00002,Christina,Martin,F,1968-12-10,Medicare Advantage,Overdue Mammogram,85
+M00007,John,Mcdonald,M,1955-02-20,Medicaid,Overdue Wellness Visit,75
+M00008,Joshua,Pugh,F,1981-01-06,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00010,Elizabeth,King,M,1976-07-09,Medicaid,Overdue Diabetes A1C Screening,95
+M00012,Jessica,Mcdonald,M,1946-07-05,Employer Sponsored,Overdue Wellness Visit,75
+M00014,Sharon,Knight,F,1988-11-28,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00016,Kim,Andersen,F,1955-09-12,Medicaid,Overdue Diabetes A1C Screening,95
+M00018,David,Weber,F,1959-09-07,Medicaid,Overdue Mammogram,85
+M00019,David,Meyers,F,1955-06-23,Medicaid,Overdue Diabetes A1C Screening,95
+M00020,Allison,Ellis,M,1942-05-15,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00021,William,Perkins,M,2003-09-13,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00023,Autumn,Turner,F,1961-03-14,Employer Sponsored,Overdue Mammogram,85
+M00024,Lori,Hall,F,1952-09-30,Medicare Advantage,Overdue Mammogram,85
+M00025,Brian,Sexton,F,1952-08-18,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00031,Ricky,Tucker,M,1988-12-18,Medicaid,Overdue Diabetes A1C Screening,95
+M00038,Robert,Hart,M,1964-12-11,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00041,David,Chambers,F,1966-07-29,Medicare Advantage,Overdue Mammogram,85
+M00045,Annette,Walls,M,1940-07-09,Employer Sponsored,Overdue Wellness Visit,75
+M00047,Rebecca,Gonzales,M,1956-03-11,Medicaid,Overdue Diabetes A1C Screening,95
+M00052,Melinda,Anderson,F,1962-11-03,Medicaid,Overdue Diabetes A1C Screening,95
+M00054,Kyle,Shaffer,F,1946-11-18,Medicaid,Overdue Diabetes A1C Screening,95
+M00061,Lauren,Benson,M,1984-12-15,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00066,Tyler,Watson,F,1966-10-10,Medicare Advantage,Overdue Mammogram,85
+M00069,Matthew,Woods,F,1969-12-23,Employer Sponsored,Overdue Mammogram,85
+M00073,Jasmine,Sullivan,M,1996-09-04,Medicaid,Overdue Diabetes A1C Screening,95
+M00074,Lisa,Gonzales,M,1943-05-24,Medicare Advantage,Overdue Wellness Visit,75
+M00075,Sarah,Castillo,M,1984-09-23,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00076,Mark,Gonzalez,M,1942-05-25,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00081,Craig,Ruiz,F,1958-02-23,Medicare Advantage,Overdue Mammogram,85
+M00083,Kayla,Russell,F,1961-03-17,Employer Sponsored,Overdue Mammogram,85
+M00096,Donald,Johnson,F,1951-07-08,Medicare Advantage,Overdue Wellness Visit,75
+M00097,Lisa,Sweeney,F,1970-06-14,Employer Sponsored,Overdue Mammogram,85
+M00098,Mark,Oconnell,F,1956-10-29,Medicaid,Overdue Diabetes A1C Screening,95
+M00099,Brianna,Price,F,1976-01-12,Medicare Advantage,Overdue Mammogram,85
+M00100,Maria,Greer,F,1974-11-21,Medicare Advantage,Overdue Mammogram,85
+M00103,Dustin,Sullivan,F,1960-06-27,Medicaid,Overdue Wellness Visit,75
+M00107,Dean,Castillo,F,1979-10-27,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00110,Bruce,Osborn,F,1941-02-27,Medicaid,Overdue Wellness Visit,75
+M00116,Martin,Johnson,M,1943-05-14,Medicare Advantage,Overdue Wellness Visit,75
+M00123,Janet,Hernandez,F,1990-03-29,Medicaid,Overdue Diabetes A1C Screening,95
+M00126,Christopher,Bailey,M,1952-06-10,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00127,Andrea,Garrison,M,1944-01-03,Medicaid,Overdue Wellness Visit,75
+M00133,Diane,Castaneda,M,1944-01-08,Medicaid,Overdue Wellness Visit,75
+M00135,Rebecca,Garrett,F,1947-08-05,Medicaid,Overdue Wellness Visit,75
+M00137,Michelle,Simmons,M,2003-05-15,Medicaid,Overdue Diabetes A1C Screening,95
+M00139,Jessica,Ray,M,1961-08-28,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00147,Natalie,Murphy,F,2004-10-15,Medicaid,Overdue Diabetes A1C Screening,95
+M00152,Natalie,Davis,M,1953-05-07,Medicare Advantage,Overdue Wellness Visit,75
+M00155,Kurt,Flynn,F,1961-01-02,Employer Sponsored,Overdue Mammogram,85
+M00159,Taylor,Allen,F,1946-02-26,Medicare Advantage,Overdue Wellness Visit,75
+M00161,Christopher,Harris,F,2003-03-31,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00162,Joshua,Pruitt,M,1954-05-18,Employer Sponsored,Overdue Wellness Visit,75
+M00164,Larry,Delgado,F,1963-03-15,Medicare Advantage,Overdue Mammogram,85
+M00167,William,Summers,F,1957-01-15,Medicaid,Overdue Wellness Visit,75
+M00173,Rebecca,Mullins,M,1947-05-03,Medicaid,Overdue Diabetes A1C Screening,95
+M00175,Billy,Schneider,M,1997-06-06,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00176,Kimberly,Ramirez,M,1992-09-14,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00179,Barbara,Olson,F,1953-06-01,Medicaid,Overdue Wellness Visit,75
+M00181,Jonathan,Young,F,1946-01-13,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00183,Anthony,Henry,M,1979-08-21,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00186,Sandy,Giles,M,1970-07-13,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00188,David,Black,F,1970-07-26,Employer Sponsored,Overdue Mammogram,85
+M00190,Margaret,Kennedy,M,1989-12-13,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00192,Julie,Archer,F,1968-11-30,Medicare Advantage,Overdue Mammogram,85
+M00200,Gregory,Page,F,1958-10-10,Medicaid,Overdue Mammogram,85
+M00203,Matthew,Morales,F,1958-03-15,Employer Sponsored,Overdue Wellness Visit,75
+M00204,Matthew,Flowers,M,1971-11-18,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00209,Angela,Hammond,F,1955-04-14,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00212,Karen,Clay,F,1961-02-11,Medicare Advantage,Overdue Wellness Visit,75
+M00215,Maria,Smith,F,1962-01-29,Employer Sponsored,Overdue Mammogram,85
+M00223,Cassandra,Carrillo,F,1962-05-03,Employer Sponsored,Overdue Mammogram,85
+M00226,Samantha,Mcdaniel,F,1974-11-30,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00228,Craig,Torres,M,1957-08-29,Employer Sponsored,Overdue Wellness Visit,75
+M00229,Cheryl,Reynolds,M,1950-11-11,Medicaid,Overdue Wellness Visit,75
+M00231,Taylor,Murray,M,1955-12-08,Medicaid,Overdue Diabetes A1C Screening,95
+M00233,Cindy,Jackson,M,1943-07-08,Medicaid,Overdue Wellness Visit,75
+M00237,Amy,Thompson,M,1947-05-31,Medicaid,Overdue Diabetes A1C Screening,95
+M00238,Stephanie,Villarreal,F,1973-07-02,Medicaid,Overdue Mammogram,85
+M00239,Elizabeth,Sanders,F,1942-06-21,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00241,April,Herrera,M,1952-09-28,Medicare Advantage,Overdue Wellness Visit,75
+M00246,Christina,Carter,F,1979-06-12,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00248,Jose,Walker,F,1951-09-25,Medicaid,Overdue Mammogram,85
+M00257,Shannon,Lara,F,1974-09-08,Medicare Advantage,Overdue Mammogram,85
+M00264,Joshua,Hill,M,2006-10-29,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00267,Anna,Ramirez,F,1951-10-03,Employer Sponsored,Overdue Mammogram,85
+M00268,Mark,Hess,F,1950-12-28,Employer Sponsored,Overdue Wellness Visit,75
+M00269,Haley,Gordon,F,1995-02-12,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00270,Jennifer,Henderson,F,1965-11-29,Employer Sponsored,Overdue Mammogram,85
+M00271,Meghan,Hensley,F,1993-12-06,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00275,Amy,Garcia,F,1957-05-19,Medicare Advantage,Overdue Mammogram,85
+M00276,William,Myers,F,1943-03-19,Medicare Advantage,Overdue Wellness Visit,75
+M00280,Jacob,Shannon,M,1944-04-12,Medicaid,Overdue Wellness Visit,75
+M00281,Scott,Williams,F,1954-06-20,Medicare Advantage,Overdue Mammogram,85
+M00288,Dave,Johnson,F,1973-10-30,Medicare Advantage,Overdue Mammogram,85
+M00292,Curtis,Douglas,F,1973-04-22,Employer Sponsored,Overdue Mammogram,85
+M00302,Taylor,Atkins,M,1958-08-14,Employer Sponsored,Overdue Wellness Visit,75
+M00303,Samuel,Schneider,F,1949-05-19,Medicaid,Overdue Wellness Visit,75
+M00305,Ricky,Underwood,F,1957-01-14,Medicaid,Overdue Wellness Visit,75
+M00306,Kathryn,Farmer,M,1977-01-04,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00310,Heather,Potter,F,1951-08-24,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00316,Christopher,Greene,M,1961-03-19,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00317,Daniel,Mann,M,1943-04-20,Medicaid,Overdue Wellness Visit,75
+M00327,Michael,Brady,F,1943-10-04,Employer Sponsored,Overdue Wellness Visit,75
+M00328,Eugene,Johnson,M,1961-08-26,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00330,Adriana,Smith,F,2001-09-29,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00331,Martin,Shaw,M,1955-06-23,Medicaid,Overdue Wellness Visit,75
+M00339,Christy,Dennis,M,1977-10-23,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00342,Meredith,Grant,F,1955-05-07,Employer Sponsored,Overdue Wellness Visit,75
+M00343,Victor,Kelley,F,1965-01-17,Medicare Advantage,Overdue Mammogram,85
+M00345,Michael,Keith,M,1961-02-19,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00349,Deanna,Jackson,F,1968-05-04,Medicare Advantage,Overdue Mammogram,85
+M00351,Alan,Matthews,F,1966-04-10,Employer Sponsored,Overdue Mammogram,85
+M00352,Brittney,Mann,M,1993-08-19,Medicaid,Overdue Diabetes A1C Screening,95
+M00353,Emily,Gutierrez,F,1953-09-12,Medicare Advantage,Overdue Mammogram,85
+M00354,Ricky,Stout,F,1941-09-04,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00355,Alexis,Jones,F,2002-09-28,Medicaid,Overdue Diabetes A1C Screening,95
+M00359,John,Bautista,F,1988-04-22,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00361,Robert,Hart,M,1960-10-05,Medicaid,Overdue Wellness Visit,75
+M00364,Ronnie,Rose,F,1946-05-11,Medicaid,Overdue Diabetes A1C Screening,95
+M00365,Kyle,Jones,F,1982-01-15,Medicaid,Overdue Diabetes A1C Screening,95
+M00366,Tonya,Cohen,F,1956-07-04,Medicaid,Overdue Mammogram,85
+M00367,Christopher,Poole,F,1998-11-01,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00370,Angela,Sweeney,F,1968-12-12,Medicare Advantage,Overdue Mammogram,85
+M00374,Raymond,Black,F,1947-12-15,Medicare Advantage,Overdue Wellness Visit,75
+M00376,Paige,Diaz,M,1969-10-05,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00377,Benjamin,Munoz,F,1957-12-03,Medicaid,Overdue Wellness Visit,75
+M00386,Debra,Ware,F,2007-11-26,Medicaid,Overdue Diabetes A1C Screening,95
+M00390,Mitchell,Roy,F,1968-05-19,Medicaid,Overdue Diabetes A1C Screening,95
+M00403,Cynthia,Schultz,M,1950-06-09,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00405,Amy,Jones,F,1994-02-11,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00406,Justin,Cross,F,1969-07-11,Employer Sponsored,Overdue Mammogram,85
+M00410,David,Willis,F,1943-05-13,Medicaid,Overdue Diabetes A1C Screening,95
+M00415,Rachel,Wilkinson,F,1956-02-07,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00416,Taylor,Moreno,M,1948-05-27,Employer Sponsored,Overdue Wellness Visit,75
+M00417,Meredith,Phelps,F,1973-02-16,Medicaid,Overdue Mammogram,85
+M00418,Felicia,Moyer,M,1951-12-29,Medicaid,Overdue Wellness Visit,75
+M00419,Jessica,Murphy,F,1991-07-26,Medicaid,Overdue Diabetes A1C Screening,95
+M00426,James,Silva,M,1952-08-06,Employer Sponsored,Overdue Wellness Visit,75
+M00429,Scott,Martin,F,1959-10-03,Medicare Advantage,Overdue Wellness Visit,75
+M00436,Brooke,Walker,M,1942-06-17,Medicare Advantage,Overdue Wellness Visit,75
+M00440,Catherine,Hunter,M,1946-08-11,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00443,Jeffrey,Merritt,F,1942-10-02,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00447,Tiffany,Salazar,F,1957-04-19,Medicare Advantage,Overdue Mammogram,85
+M00448,Bridget,Hill,F,1984-02-20,Medicaid,Overdue Diabetes A1C Screening,95
+M00452,Stephanie,Howell,M,2001-01-15,Medicaid,Overdue Diabetes A1C Screening,95
+M00454,Jose,Romero,M,1943-03-07,Medicare Advantage,Overdue Wellness Visit,75
+M00455,James,Stewart,F,1940-06-12,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00458,Sarah,Parker,F,1958-02-19,Medicaid,Overdue Mammogram,85
+M00460,Brian,Williams,F,1971-05-11,Employer Sponsored,Overdue Mammogram,85
+M00466,Ross,Hess,F,1973-11-24,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00469,Katherine,Terry,F,1990-08-07,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00474,Jennifer,Williams,M,1993-06-01,Medicaid,Overdue Diabetes A1C Screening,95
+M00475,Jordan,Brown,F,1970-08-03,Medicaid,Overdue Diabetes A1C Screening,95
+M00476,Andre,Mccullough,F,1957-02-18,Employer Sponsored,Overdue Mammogram,85
+M00477,Christine,Arnold,F,1961-10-06,Medicaid,Overdue Mammogram,85
+M00478,Douglas,Turner,F,1976-04-01,Medicaid,Overdue Diabetes A1C Screening,95
+M00481,Christy,Swanson,F,1945-10-24,Medicare Advantage,Overdue Wellness Visit,75
+M00487,David,White,F,1990-06-23,Medicaid,Overdue Diabetes A1C Screening,95
+M00496,Daniel,Jordan,M,1948-05-11,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00497,Alexandra,Fisher,M,1998-03-22,Medicaid,Overdue Diabetes A1C Screening,95
+M00499,Adam,Smith,F,1956-12-30,Employer Sponsored,Overdue Mammogram,85
+M00500,William,Bailey,F,1954-10-03,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00511,Robert,Thomas,F,1994-08-01,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00515,Miranda,Kelly,M,1963-04-04,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00516,Mary,Williams,F,2003-04-12,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00517,Stephanie,Harris,F,1953-05-06,Medicaid,Overdue Mammogram,85
+M00518,Meagan,Haynes,F,1942-07-10,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00520,Christina,Palmer,M,1951-11-19,Medicaid,Overdue Wellness Visit,75
+M00521,William,Mcdonald,F,1968-11-16,Medicare Advantage,Overdue Mammogram,85
+M00524,Anthony,Torres,F,1944-05-23,Employer Sponsored,Overdue Wellness Visit,75
+M00526,Gabrielle,Reid,M,1982-12-09,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00530,Robert,Haney,M,1956-11-16,Employer Sponsored,Overdue Wellness Visit,75
+M00536,Gabriel,Evans,M,1978-05-31,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00538,Michelle,Payne,F,1951-05-20,Employer Sponsored,Overdue Wellness Visit,75
+M00545,Benjamin,Higgins,M,1945-04-19,Employer Sponsored,Overdue Wellness Visit,75
+M00553,Antonio,Baxter,F,1943-11-18,Employer Sponsored,Overdue Wellness Visit,75
+M00556,Yvette,Perkins,F,1973-08-06,Medicare Advantage,Overdue Mammogram,85
+M00558,Melissa,Gregory,F,1946-05-18,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00563,Tami,Mclaughlin,F,1959-11-24,Medicaid,Overdue Wellness Visit,75
+M00568,William,Mills,M,1946-03-12,Medicare Advantage,Overdue Wellness Visit,75
+M00569,Daniel,Ross,F,2003-07-20,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00571,Christopher,Lyons,F,1965-01-30,Medicare Advantage,Overdue Mammogram,85
+M00580,Kyle,Petersen,F,1952-03-22,Employer Sponsored,Overdue Mammogram,85
+M00595,Holly,Rogers,F,1945-05-10,Medicare Advantage,Overdue Wellness Visit,75
+M00598,Karen,Baldwin,M,1941-08-27,Employer Sponsored,Overdue Wellness Visit,75
+M00603,Timothy,Garrison,F,2000-05-01,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00606,Pamela,Franco,F,1978-12-19,Medicaid,Overdue Diabetes A1C Screening,95
+M00610,Adam,Mcguire,M,1959-09-27,Medicaid,Overdue Wellness Visit,75
+M00613,Ashley,Perez,F,1961-07-25,Medicare Advantage,Overdue Mammogram,85
+M00615,Adam,Riggs,M,1976-06-09,Medicaid,Overdue Diabetes A1C Screening,95
+M00620,Leah,Davis,F,1967-01-09,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00623,Tiffany,Martin,F,1999-04-01,Medicaid,Overdue Diabetes A1C Screening,95
+M00628,Nancy,Fisher,M,1990-04-14,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00630,Kevin,Daniels,F,1965-03-15,Medicaid,Overdue Mammogram,85
+M00631,Martin,Stephens,F,1977-08-21,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00632,Christopher,King,M,1978-04-13,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00633,Thomas,Taylor,M,1949-11-17,Medicaid,Overdue Wellness Visit,75
+M00646,Kerry,Cuevas,F,1958-06-28,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00650,Timothy,Wells,F,1991-05-26,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00662,April,Gonzalez,F,1960-08-21,Medicaid,Overdue Wellness Visit,75
+M00664,Jose,Anderson,F,1971-11-28,Medicaid,Overdue Diabetes A1C Screening,95
+M00670,Jerry,Salazar,F,1964-01-10,Medicaid,Overdue Mammogram,85
+M00671,Jonathan,Campbell,F,1990-11-29,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00676,Crystal,Stewart,F,1975-01-31,Employer Sponsored,Overdue Mammogram,85
+M00677,Mario,Anderson,M,1966-07-01,Medicaid,Overdue Diabetes A1C Screening,95
+M00679,Yolanda,Gonzales,F,1957-03-23,Medicaid,Overdue Mammogram,85
+M00680,Mitchell,Perez,F,1973-12-14,Medicaid,Overdue Mammogram,85
+M00681,Mckenzie,Miller,M,1947-09-25,Employer Sponsored,Overdue Wellness Visit,75
+M00682,Brandon,Bentley,M,1990-01-10,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00692,Michelle,Stark,F,2002-01-01,Medicaid,Overdue Diabetes A1C Screening,95
+M00695,Veronica,Wood,M,1955-04-20,Medicare Advantage,Overdue Wellness Visit,75
+M00702,Martin,Duke,F,1993-06-22,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00710,Jennifer,Landry,F,1960-09-01,Medicaid,Overdue Wellness Visit,75
+M00711,Troy,Campbell,M,1942-11-10,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00714,Justin,Gonzalez,M,2007-12-09,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00721,Lori,Davis,F,1994-06-29,Medicaid,Overdue Diabetes A1C Screening,95
+M00728,Kevin,Beck,F,1952-06-14,Employer Sponsored,Overdue Wellness Visit,75
+M00729,Ashley,Singleton,M,1949-03-22,Employer Sponsored,Overdue Wellness Visit,75
+M00730,Mariah,West,M,1995-09-10,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00732,Nicole,Landry,F,2007-07-16,Medicaid,Overdue Diabetes A1C Screening,95
+M00734,Christina,Greer,F,1988-11-04,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00735,Lisa,Gordon,F,1958-12-20,Medicare Advantage,Overdue Wellness Visit,75
+M00742,Amy,Payne,F,1995-09-25,Medicaid,Overdue Diabetes A1C Screening,95
+M00745,Annette,Lowe,F,1968-01-30,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00748,Sonia,Schultz,M,1951-08-07,Medicaid,Overdue Diabetes A1C Screening,95
+M00752,Karen,Bell,F,1986-02-06,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00758,Benjamin,Butler,F,1990-01-16,Medicaid,Overdue Diabetes A1C Screening,95
+M00760,Kevin,Miller,M,1975-10-22,Medicaid,Overdue Diabetes A1C Screening,95
+M00762,Danielle,Long,F,1953-11-29,Medicare Advantage,Overdue Mammogram,85
+M00763,Martin,Lucas,F,1949-04-24,Medicaid,Overdue Wellness Visit,75
+M00764,Steven,Haley,F,1941-01-18,Medicaid,Overdue Wellness Visit,75
+M00768,Tiffany,Porter,F,1975-06-12,Employer Sponsored,Overdue Mammogram,85
+M00769,Ernest,Robles,F,1963-09-03,Medicaid,Overdue Mammogram,85
+M00770,Anthony,Taylor,F,1966-10-19,Employer Sponsored,Overdue Mammogram,85
+M00775,Mackenzie,Contreras,F,1969-09-27,Medicaid,Overdue Mammogram,85
+M00778,Allison,Levine,F,1951-06-11,Medicare Advantage,Overdue Wellness Visit,75
+M00779,Ashley,Conley,M,1957-07-11,Medicare Advantage,Overdue Wellness Visit,75
+M00780,Austin,Bennett,M,1990-01-11,Medicaid,Overdue Diabetes A1C Screening,95
+M00781,Andrew,White,M,1981-11-27,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00782,Christine,Cox,F,1954-10-05,Medicaid,Overdue Diabetes A1C Screening,95
+M00783,William,Barry,M,1969-11-02,Medicaid,Overdue Diabetes A1C Screening,95
+M00786,Gabriel,Barnes,F,1961-08-13,Employer Sponsored,Overdue Mammogram,85
+M00791,Kathy,Cook,M,1984-02-18,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00797,Martha,Ford,F,1972-06-18,Medicaid,Overdue Mammogram,85
+M00798,Kevin,Johnson,F,1950-02-19,Medicare Advantage,Overdue Wellness Visit,75
+M00799,Jeffrey,Lara,F,1979-05-01,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00801,Angela,Spencer,F,1948-03-29,Medicaid,Overdue Wellness Visit,75
+M00802,Daniel,Klein,M,1953-12-28,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00806,Shawn,Rojas,F,2007-08-03,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00812,Justin,Taylor,M,1979-12-11,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00818,Michael,Lin,F,1950-10-22,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00821,Laura,Rangel,F,1958-04-03,Employer Sponsored,Overdue Mammogram,85
+M00823,Timothy,Spence,M,1969-08-19,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00825,Todd,Gonzalez,F,1942-05-15,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00827,Gina,Williams,M,1943-07-10,Medicaid,Overdue Wellness Visit,75
+M00830,Sean,Mathews,M,1943-03-26,Medicaid,Overdue Diabetes A1C Screening,95
+M00831,Brian,Booth,F,1945-07-20,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00834,Kari,Gonzalez,F,1996-03-05,Medicaid,Overdue Diabetes A1C Screening,95
+M00835,Carol,Watkins,F,1979-08-01,Medicaid,Overdue Diabetes A1C Screening,95
+M00842,Wendy,Davis,M,1947-06-18,Medicare Advantage,Overdue Wellness Visit,75
+M00843,Anthony,Welch,F,1951-04-16,Employer Sponsored,Overdue Wellness Visit,75
+M00848,Teresa,Buchanan,F,1945-01-06,Medicaid,Overdue Wellness Visit,75
+M00849,Daniel,French,M,1960-08-15,Medicare Advantage,Overdue Wellness Visit,75
+M00851,Danny,Ramos,F,1952-10-10,Medicaid,Overdue Mammogram,85
+M00853,Tyler,Francis,F,1996-01-26,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00855,Judith,Lindsey,M,1999-12-25,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00856,Barbara,Thompson,F,1973-04-09,Medicaid,Overdue Diabetes A1C Screening,95
+M00857,Amanda,Graham,M,1988-07-05,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00858,Ian,Davis,M,2007-08-16,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00860,Scott,Golden,M,1974-01-20,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00864,Timothy,Gibson,F,1957-05-10,Medicare Advantage,Overdue Mammogram,85
+M00866,Allison,Huang,F,1949-11-22,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00869,Jacqueline,Wang,F,1975-01-06,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00872,Donna,Parker,M,1961-05-01,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00879,Julia,Huff,F,1972-04-20,Employer Sponsored,Overdue Mammogram,85
+M00880,Paul,Avila,M,1986-06-27,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00883,Angela,Jordan,M,1971-11-22,Medicaid,Overdue Diabetes A1C Screening,95
+M00884,Melanie,Mcclure,M,1942-02-15,Medicare Advantage,Overdue Wellness Visit,75
+M00889,David,Wright,M,1973-02-05,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00892,Melanie,Elliott,M,1942-11-30,Employer Sponsored,Overdue Wellness Visit,75
+M00894,Jennifer,Washington,F,1941-09-27,Medicaid,Overdue Diabetes A1C Screening,95
+M00895,Joshua,Gonzalez,F,1943-03-07,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00900,Wesley,Wilson,M,1985-12-17,Medicaid,Overdue Diabetes A1C Screening,95
+M00904,Sandra,Campbell,F,1971-12-14,Medicaid,Overdue Mammogram,85
+M00907,Ray,Maxwell,F,1950-12-09,Medicaid,Overdue Diabetes A1C Screening,95
+M00910,Christopher,Foster,F,1941-04-11,Medicare Advantage,Overdue Wellness Visit,75
+M00911,Daniel,Gray,M,1945-01-11,Medicaid,Overdue Wellness Visit,75
+M00914,Barbara,Wong,M,1999-11-24,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00917,Megan,Wilkins,F,1993-08-18,Medicaid,Overdue Diabetes A1C Screening,95
+M00919,Logan,Neal,F,2007-02-28,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00920,James,Pena,F,1972-09-15,Medicaid,Overdue Diabetes A1C Screening,95
+M00922,Jessica,Bell,F,1951-12-23,Medicare Advantage,Overdue Mammogram,85
+M00931,Natalie,Roach,F,1980-10-11,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00934,Diana,Fisher,M,1987-11-26,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00935,Brandi,Crawford,F,1948-10-08,Medicaid,Overdue Wellness Visit,75
+M00938,Nancy,Allison,M,1956-04-30,Medicaid,Overdue Diabetes A1C Screening,95
+M00940,Jeffrey,Curtis,M,1962-09-07,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00941,Tyler,Wilcox,M,1949-11-20,Medicaid,Overdue Wellness Visit,75
+M00944,Diane,White,F,1946-07-14,Employer Sponsored,Overdue Wellness Visit,75
+M00949,Elizabeth,Zimmerman,F,2000-08-16,Medicaid,Overdue Diabetes A1C Screening,95
+M00951,Carl,Stokes,F,1955-12-14,Employer Sponsored,Overdue Wellness Visit,75
+M00953,Madeline,Smith,F,1978-03-03,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00956,Marie,Smith,M,1966-12-13,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00958,Ruth,Mendoza,M,1958-01-14,Medicaid,Overdue Wellness Visit,75
+M00959,Aaron,Vargas,F,1962-06-14,Employer Sponsored,Overdue Mammogram,85
+M00966,Roger,Martin,M,1951-08-01,Employer Sponsored,Overdue Wellness Visit,75
+M00967,Paul,Price,M,1983-02-01,Medicaid,Overdue Diabetes A1C Screening,95
+M00968,Karen,Clay,F,2007-11-03,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00971,Michael,Bailey,M,1984-04-10,Medicaid,Overdue Diabetes A1C Screening,95
+M00973,Kristen,Allen,M,1962-09-01,Medicare Advantage,Overdue Diabetes A1C Screening,95
+M00974,Anna,Daniels,F,1945-01-17,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00977,Jessica,Harris,F,1956-08-10,Employer Sponsored,Overdue Mammogram,85
+M00978,Brian,Farmer,F,1957-03-28,Employer Sponsored,Overdue Wellness Visit,75
+M00980,Sabrina,Bailey,M,1998-09-02,Employer Sponsored,Overdue Diabetes A1C Screening,95
+M00983,Shannon,Velasquez,F,1954-08-13,Employer Sponsored,Overdue Mammogram,85
+M00985,Austin,Maldonado,M,1945-03-31,Employer Sponsored,Overdue Wellness Visit,75
+M00987,Margaret,Cortez,M,1952-11-01,Employer Sponsored,Overdue Wellness Visit,75
+M00988,Veronica,Stephens,F,1966-12-12,Medicaid,Overdue Mammogram,85
+M00991,Keith,Berry,F,1956-11-14,Employer Sponsored,Overdue Mammogram,85
+M00992,Thomas,Anderson,M,1997-02-01,Medicaid,Overdue Diabetes A1C Screening,95
+M00993,Joseph,Schmidt,M,1948-10-06,Medicaid,Overdue Wellness Visit,75
+M00999,Allison,Copeland,M,1957-02-13,Medicaid,Overdue Diabetes A1C Screening,95
+M01000,David,Jimenez,F,1963-09-13,Medicare Advantage,Overdue Mammogram,85

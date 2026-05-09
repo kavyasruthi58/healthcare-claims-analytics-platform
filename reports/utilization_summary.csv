@@ -1,0 +1,5 @@
+claim_type,total_claims,total_paid_amount,avg_paid_amount
+inpatient,1269,6372274.0,5021.49
+pharmacy,1236,6312550.24,5107.24
+outpatient,1244,6142352.52,4937.58
+professional,1251,6123475.81,4894.86
