@@ -1,4 +1,4 @@
-# Healthcare Claims Analytics Platform
+# AI-Powered Preventive Care & Healthcare Claims Analytics Platform
 
 > An end-to-end analytics platform that identifies preventive care gaps, monitors healthcare utilization trends, and surfaces population health insights — built with Python, SQL, and Tableau.
 
